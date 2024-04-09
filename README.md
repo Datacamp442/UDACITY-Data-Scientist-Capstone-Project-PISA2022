@@ -49,7 +49,8 @@ pisa_short.csv -    a dataset that contains the PISA 2022 results of European Co
 
 ## Blog post
 Please also see my blog post on Medium:
-xxx
+
+https://medium.com/@datacamp442/pisa-2022-are-we-able-to-predict-the-scores-727673865789
 
 ## End- to- End Process Summary
 First, we needed to to some data cleaning, like dropping for my analysis unnecessary columns, handling NaN's and converting values to descriptive text.
